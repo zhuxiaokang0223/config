@@ -1,3 +1,5 @@
+server:
+    name: serverA
 name: dev
 user:
     age: 20
