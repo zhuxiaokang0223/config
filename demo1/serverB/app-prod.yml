@@ -1,3 +1,6 @@
 server:
     name: serverB
 name: prod
+
+config:
+    pr: serverB-redis-prod
